@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "Auth\Auth.csproj", "{660F22C8-AC9B-48F9-8201-FFE803CD865A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth", "Auth\Auth.csproj", "{660F22C8-AC9B-48F9-8201-FFE803CD865A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api1", "Api1\Api1.csproj", "{BFA2F4A5-7529-4DCF-B23A-EAA8DB977916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api1", "Api1\Api1.csproj", "{BFA2F4A5-7529-4DCF-B23A-EAA8DB977916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api2", "Api2\Api2.csproj", "{2EBF0A99-0146-496A-B8D1-928605B19049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api2", "Api2\Api2.csproj", "{2EBF0A99-0146-496A-B8D1-928605B19049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc1", "Mvc1\Mvc1.csproj", "{FF2B44E7-3172-43B0-8844-F450F4B56A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc2", "Mvc2\Mvc2.csproj", "{3B55C283-B0AF-4E3E-B732-1748D7E77B05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{2EBF0A99-0146-496A-B8D1-928605B19049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EBF0A99-0146-496A-B8D1-928605B19049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EBF0A99-0146-496A-B8D1-928605B19049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2B44E7-3172-43B0-8844-F450F4B56A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2B44E7-3172-43B0-8844-F450F4B56A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2B44E7-3172-43B0-8844-F450F4B56A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2B44E7-3172-43B0-8844-F450F4B56A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B55C283-B0AF-4E3E-B732-1748D7E77B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B55C283-B0AF-4E3E-B732-1748D7E77B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B55C283-B0AF-4E3E-B732-1748D7E77B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B55C283-B0AF-4E3E-B732-1748D7E77B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

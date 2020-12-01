@@ -9,3 +9,10 @@
 /Auth/Api2/obj
 /Auth/Auth/bin
 /Auth/Auth/obj
+/Plugins/Plugins/.vs
+/Plugins/Plugins/Plugin1/bin
+/Plugins/Plugins/Plugin1/obj
+/Plugins/Plugins/Plugin2/bin
+/Plugins/Plugins/Plugin2/obj
+/Plugins/Plugins/Plugins/bin
+/Plugins/Plugins/Plugins/obj
